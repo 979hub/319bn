@@ -1,0 +1,3 @@
+fastapi
+uvicorn
+binance-connector  # 或者 ccxt，取决于你现有的逻辑
